@@ -1,0 +1,6 @@
+framework module Pods_Mercer___Mettl {
+  umbrella header "Pods-Mercer | Mettl-umbrella.h"
+
+  export *
+  module * { export * }
+}
